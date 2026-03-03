@@ -4,8 +4,8 @@ import Flag from "@/components/Flag";
 const exchanges = [
   {
     flag: "PumpFun",
-    title: "buy $starcat",
-    link: "https://dexscreener.com/solana/",
+    title: "PumpFun",
+    link: "https://pump.fun/",
   },
   // {
   //   flag: "Binance",
