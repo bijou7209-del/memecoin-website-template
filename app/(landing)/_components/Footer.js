@@ -13,11 +13,11 @@ const Footer = () => {
         </div>
         <div>
           <p className="text-md/relaxed text-gray-500">
-            © &nbsp; <span className="text-duis text-shadow">DUIS</span>{" "}
-            community 2024.
+            © &nbsp; <span className="text-duis text-shadow">STARCAT</span>{" "}
+            community 2026.
             <br />
             <span className="underline decoration-duis">
-              {"All cutes reserved for duis's dawgs."}
+              {"All creator fees will be transferred to the STARCAT owner."}
             </span>
           </p>
           <p className="text-black mt-4 px-3 text-base sm:text-lg md:text-2xl opacity-30 break-words">
