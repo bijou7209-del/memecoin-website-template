@@ -22,7 +22,7 @@ const Exchanges = () => {
           Exchanges
         </h2>
         <h3 className="font-stopbuck text-2xl text-center text-black">
-          probably nothing 🤔
+          $STARTCAT is deployed on pump.fun!
         </h3>
       </div>
       <div className="grid grid-cols-1 sm:grid-flow-col gap-5 gap-y-20 justify-center justify-items-center">
