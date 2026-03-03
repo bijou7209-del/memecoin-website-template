@@ -3,34 +3,14 @@ import LinkCardCircle from "@/components/LinkCardCircle";
 
 const cards = [
   {
-    link: "https://t.me/duis_solana",
-    title: "telegram",
-    icon: "Telegram",
-  },
-  {
     link: "https://x.com/duisonsolana",
     title: "x",
     icon: "X",
   },
   {
-    link: "https://www.instagram.com/nguyen_van_dui",
-    title: "Instagram",
-    icon: "Instagram",
-  },
-  {
-    link: "https://www.youtube.com/@lanlanpet",
-    title: "Youtube",
-    icon: "Youtube",
-  },
-  {
-    link: "https://www.tiktok.com/@nguyen_van_dui",
+    link: "https://www.tiktok.com/@___starcat___",
     title: "Tiktok",
     icon: "Tiktok",
-  },
-  {
-    link: "https://www.facebook.com/gaumeolangdui",
-    title: "Facebook",
-    icon: "Facebook",
   },
 ];
 
