@@ -56,10 +56,9 @@ const About = () => {
               </p>
               <p className="indent-12 mt-3">
                 His TikTok videos exploded in early March 2026, instantly turning the {" "}
-                <span className=" italic font-bold">$STARCAT</span> into a viral sensation. Fans fell in love with his perfectly timed expressions, and the comment sections quickly filled with memes, reaction edits, and custom $STARCAT stickers shared by thousands.
-              </p>
+                <span className=" italic font-bold">$STARCAT</span> into a viral sensation with thousands shared memes and stickers in the comments.
               <p className="indent-12 mt-3">
-                In a world facing conflict and heavy news, this tiny star-marked kitten offered a breath of positivity, reminding people everywhere that even the smallest spark can brighten the darkest days.
+                Even during global conflicts, the tiny star-marked kitten spread joy and positivity.
               </p>
             </h3>
           </div>
